@@ -9,3 +9,7 @@ Este repositiorio contiene los detalles sobre las notas de actualización, sobre
 ### [v3.0.1](3.0.1)
 
 Correción de errores al generar reporte de ventas y kardex.
+
+### [v3.0.2](3.0.2)
+
+Actualización de FPDF 1.86
