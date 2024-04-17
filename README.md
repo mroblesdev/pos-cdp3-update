@@ -6,10 +6,14 @@ Este repositiorio contiene los detalles sobre las notas de actualización, sobre
 
 ## Actualizaciones
 
-### [v3.0.1](3.0.1)
+### [v3.0.3](3.0.3)
 
-Correción de errores al generar reporte de ventas y kardex.
+Compatibilidad con PHP 8.2
 
 ### [v3.0.2](3.0.2)
 
 Actualización de FPDF 1.86
+
+### [v3.0.1](3.0.1)
+
+Correción de errores al generar reporte de ventas y kardex.
